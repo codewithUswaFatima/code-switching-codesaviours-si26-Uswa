@@ -8,7 +8,7 @@ Pakistanis actually type online (Twitter/X, Reddit, YouTube comments,
 WhatsApp, Facebook).
 
 ### Contents
-- `SI26-Week6-uswa.ipynb` — Colab notebook that builds and exports the dataset
+- `SI26-Week6-Uswa.ipynb` — Colab notebook that builds and exports the dataset
 - `dataset.csv` — flat, word-level labelled dataset (word, label, source sentence)
 - `DATASET_CARD.md` — full dataset documentation (also mirrored on HuggingFace)
 
@@ -21,7 +21,7 @@ WhatsApp, Facebook).
 
 ### Links
 - HuggingFace Dataset: `https://huggingface.co/datasets/122Uswa/code-switching-codesaviours-si26-Uswa`
-- Colab Notebook: `SI26-Week6-uswa.ipynb` (in this repo)
+- Colab Notebook: `SI26-Week6-Uswa.ipynb` (in this repo)
 
 ### How the data was collected
 Sentences were compiled to reflect real Pakistani online code-switching
