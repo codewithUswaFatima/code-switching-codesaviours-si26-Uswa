@@ -1,4 +1,4 @@
-# Code Switching NLP | Code Saviours SI-26 | Uswa
+# Code Switching NLP | Code Saviours SI-26 | Uswa Fatima
 
 ## Project 2 — Roman Urdu–English Code-Switching Dataset
 
