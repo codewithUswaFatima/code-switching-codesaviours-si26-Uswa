@@ -49,10 +49,6 @@ preds = torch.argmax(logits, dim=2)[0].tolist()
 print(preds)  # map back to URD/ENG/MIX using model.config.id2label
 ```
 
-## Demo Video
-
-[Loom walkthrough](PASTE_YOUR_LOOM_LINK_HERE)
-
 ---
 
 **Built by:** Uswa Fatima | Code Saviours SI-26 | 2026
