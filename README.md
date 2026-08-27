@@ -47,8 +47,9 @@ with torch.no_grad():
     logits = model(**inputs).logits
 preds = torch.argmax(logits, dim=2)[0].tolist()
 print(preds)  # map back to URD/ENG/MIX using model.config.id2label
-```
-
+```**
+Demo video:**
+https://www.loom.com/share/a19007bfae8a4783bfa94e51e77c74d4
 ---
 
 **Built by:** Uswa Fatima | Code Saviours SI-26 | 2026
